@@ -9,6 +9,6 @@ public class hello extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        System.out.println("test 2");
+        System.out.println("test 4");
     }
 }
